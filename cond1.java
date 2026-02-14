@@ -1,5 +1,5 @@
 import java.util. Scanner;   // package
-public class 01cond {
+public class cond1 {
 public static void main(String args[]){
 Scanner sc = new Scanner(System.in);
 int n= sc.nextInt();
